@@ -20,5 +20,5 @@ make
 ./pid
 ```
 
-![PID Simulator](https://github.com/mkoehnke/CarND-PID-Control-Project/raw/master/simulator.png)
+![PID Simulator](https://github.com/mkoehnke/CarND-PID-Control-Project/raw/master/resources/simulator.png)
 
