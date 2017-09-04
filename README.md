@@ -30,9 +30,6 @@ This project implements a PID controller in C++ to maneuver a vehicle around a t
 
 The **P (0.1)**, **I (0.0025)** and **D (3.5)** coefficients where choosen manually by trial and error.
 
-Here is a video of the car driving around the track with these parameters: [Link to video](https://github.com/mkoehnke/CarND-PID-Control-Project/raw/master/resources/pid-full-track.mov).
-
-
 ## Installation
 
 Install the uWebSocketIO using the following command:
